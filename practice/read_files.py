@@ -1,7 +1,7 @@
 # import os
 # import sys
 # path = input("Enter your directory path: ")
-# path_folder = "/Users/Stan/PycharmProjects/python_practice/staff_for_identefying"
+# path_folder = "/Users/Stan/PycharmProjects/python_practice/staff_for_identifying"
 #
 # if os.path.exists(path):
 #     df_l = os.listdir(path_folder)
@@ -35,7 +35,7 @@ import os
 import sys
 
 path = input("Enter your directory path: ")
-path_folder = "/Users/Stan/PycharmProjects/python_practice/staff_for_identefying"
+path_folder = "/staff_for_identifying"
 
 if os.path.exists(path):
     df_l = os.listdir(path_folder)

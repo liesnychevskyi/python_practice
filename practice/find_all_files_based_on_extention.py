@@ -1,6 +1,6 @@
 import os
 
-#  "/Users/Stan/PycharmProjects/python_practice/staff_for_identefying"
+#  "/Users/Stan/PycharmProjects/python_practice/staff_for_identifying"
 req_path = input("Enter your directory path: ")
 #  req_ext = input("Enter the required files extension .py/ .sh/ .log/ .txt: ")
 

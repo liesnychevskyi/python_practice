@@ -77,7 +77,7 @@ str_2 = "billionaire"
 future = str_0.capitalize() + space + str_2.capitalize()
 print(future)
 print(future.upper())
-print("||------------------------- dir - all available functions of string ------------------------------------------||")
+print("||------------------------- dir_0 - all available functions of string ------------------------------------------||")
 print(dir(str_0))
 print("||----------------------------- title function --------------------------------------------------------||")
 print(my_future.title())
