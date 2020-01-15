@@ -9,6 +9,10 @@ destination_file = '/Users/Stan/PycharmProjects/python_practice/staff_for_identi
 # shutil.copyfile(src_file, destination_file)  # It will copy file with different permission access
 # shutil.copy(src_file, destination_file)  # It will copy file with same permission access
 # shutil.copy2(src_file, destination_file)  # same meta data for destination as well
-shutil.copymode()  # just permission not content
-shutil.copystat()  #
-# --------------------------------------------------------------||
+# shutil.copymode()  # just permission not content
+# shutil.copystat()  #
+src = "/Users/Stan/PycharmProjects/python_practice/staff_for_identifying/dir_0"
+dir_dest = ""
+# shutil.copytree(src, '/Users/Stan/PycharmProjects/python_practice/staff_for_identifying/dir_3')  # dir copy with content
+# --------------------------------------------------------------|| Remove dir
+shutil.rmtree('/Users/Stan/PycharmProjects/python_practice/staff_for_identifying/dir_2')
